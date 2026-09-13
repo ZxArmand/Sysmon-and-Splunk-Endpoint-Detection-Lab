@@ -67,8 +67,7 @@ suspicious behavior across a large volume of endpoint logs.
   evaluate whether a command is suspicious — full command line, parent 
   process, and hashes
 - How to configure Splunk to ingest a custom Windows Event Log channel that 
-  isn't exposed in the standard GUI wizard, including troubleshooting a 
-  config file that wasn't being picked up
+  isn't exposed in the standard GUI wizard
 - How to write a targeted SPL (Search Processing Language) query to filter 
   large volumes of log data down to a specific indicator
 - The practical difference between a Universal Forwarder architecture 
